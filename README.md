@@ -1,4 +1,4 @@
-##HealthCare
+#HealthCare
 
 Objetivo e Descrição: Você foi contratado para desenvolver uma aplicativo Java para uma empresa chamada HealthCare. Esse software deverá ter uma classe chamada Paciente que possui um construtor
 que recebe o seu peso em quilos e sua altura em metros, ambos utilizando o tipo double. Crie um método chamado calcularIMC() que calcula o índice de Massa Corporal de acordo com a fórmula
